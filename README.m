@@ -1,1 +1,1 @@
-A Project to order files in their apropos folders
+A Project to order files in their apropos folders.
